@@ -1,1 +1,1 @@
-# QRCode-Python
+# A simple QRCode generator Python program using QRCode module 
